@@ -2,7 +2,7 @@
   "cars": [
     {
       "id": 1,
-      "image": "/image/car.png",
+      "image": "/image/Koenigsegg.png",
       "carName": "Koenigsegg",
       "typeCar": "Sport",
       "price": 99,
@@ -49,7 +49,7 @@
     },
     {
       "id": 2,
-      "image": "/image/car1.png",
+      "image": "/image/Nissangt-r.png",
       "carName": "Nissan GT - R",
       "typeCar": "Sport",
       "price": 100,
@@ -128,7 +128,7 @@
     },
     {
       "id": 3,
-      "image": "/image/car2.png",
+      "image": "/image/Rolls-Royce.png",
       "carName": "Rolls - Royce",
       "typeCar": "Sedan",
       "price": 96,
@@ -199,8 +199,8 @@
     },
     {
       "id": 4,
-      "image": "/image/car3.png",
-      "carName": "Nissan GT - R",
+      "image": "/image/Nissangt-r2.png",
+      "carName": "NissanGT-R",
       "typeCar": "Sport",
       "price": 80,
       "capacity": "2 People",
@@ -279,7 +279,7 @@
 
     {
       "id": 5,
-      "image": "/image/car4.png",
+      "image": "/image/AllNewRush.png",
       "carName": "All New Rush",
       "typeCar": "SUV",
       "price": 80,
@@ -334,7 +334,7 @@
     },
     {
       "id": 6,
-      "image": "/image/car5.png",
+      "image": "/image/CR-V.png",
       "carName": "CR  - V",
       "typeCar": "SUV",
       "price": 80,
@@ -413,7 +413,7 @@
     },
     {
       "id": 7,
-      "image": "/image/car6.png",
+      "image": "/image/AllNewTerios.png",
       "carName": "All New Terios",
       "typeCar": "SUV",
       "price": 74,
@@ -476,7 +476,7 @@
     },
     {
       "id": 8,
-      "image": "/image/car7.png",
+      "image": "/image/CR-V.png",
       "carName": "CR  - V",
       "typeCar": "SUV",
       "price": 80,
@@ -523,7 +523,7 @@
     },
     {
       "id": 9,
-      "image": "/image/car8.png",
+      "image": "/image/MGZXExclusice.png",
       "carName": "MG ZX Exclusice",
       "typeCar": "Hatchback",
       "price": 80,
@@ -586,7 +586,7 @@
     },
     {
       "id": 10,
-      "image": "/image/car9.png",
+      "image": "/image/NewMGZS.png",
       "carName": "New MG ZS",
       "typeCar": "SUV",
       "price": 80,
@@ -649,7 +649,7 @@
     },
     {
       "id": 11,
-      "image": "/image/car10.png",
+      "image": "/image/MGZXExcite.png",
       "carName": "MG ZX Excite",
       "typeCar": "Hatchback",
       "price": 74,
@@ -712,7 +712,7 @@
     },
     {
       "id": 12,
-      "image": "/image/car11.png",
+      "image": "/image/NewMGZS.png",
       "carName": "New MG ZS",
       "typeCar": "SUV",
       "price": 80,
